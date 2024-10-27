@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/PrashantSaini/Downloads/API-Automation/Zocket-API-Automation">
+        <classes>
+            <class name="sso_test.Sso_Grant_Url"/>
+            <class name="sso_test.Sso_SaveProfiles_Information"/>
+            <class name="sso_test.Sso_GetProfiles_Information"/>
+        </classes>
+    </test>
+</suite>
